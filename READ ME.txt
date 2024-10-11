@@ -1,0 +1,7 @@
+Giải nén lưu vào ổ D
+mở file SVN-Avo => install
+Nếu lỗi driver ( có 3 loại driver bên trong ) (jasper, jdbc chỉ add mysql, date)
+Cài tool jasper report 
+B1: mở eclip chọn Help
+B2: chọn Eclipse marketplace
+B3: tìm jaspersoft studio => cài đặt
